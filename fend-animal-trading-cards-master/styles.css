@@ -1,0 +1,21 @@
+#animal{
+width: 400px;
+}
+.border{
+ border: 5px ridge;
+padding: 10px;
+
+}
+.image{
+width: 400px;
+padding: 0px 0px 10px}
+.facts{
+font-style: italic;
+}
+.fav{
+font-weight: bold;
+}
+ul{
+ list-style-type: none;
+ padding: 0px;
+}
